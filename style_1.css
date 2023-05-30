@@ -83,7 +83,7 @@
     }
 
     .banner {
-        height: 140vh;
+        height: auto;
         background-image: url('images/hero.jpg');
         background-size: cover;
         background-position: 50% 50%;
@@ -241,7 +241,7 @@
 
 @media only screen and (max-width:480px){
     .features {
-        height: 380vh;
+        height: auto;
         background-image: url('images/background01.jpg');
         background-size: cover;
         background-position: 50% 50%;
@@ -401,7 +401,7 @@
 
 @media only screen and (max-width:480px){
     .coaches {
-        height: 870vh;
+        height: auto;
         background-color: #191919;
         //border:2px solid red;
     }
@@ -465,7 +465,7 @@
 
 @media only screen and (max-width:480px){
     .testimonials {
-        height: 380vh;
+        height: auto;
         background-image: url('images/background01.jpg');
         background-size: cover;
         background-position: 50% 50%;
@@ -514,7 +514,7 @@
 
 @media only screen and (max-width:480px){
     .gallery {
-        height: 506vh;
+        height: auto;
         padding: 0px !important;
         margin: 0px !important;
         //border:10px solid red;
